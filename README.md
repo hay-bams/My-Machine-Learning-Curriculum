@@ -29,15 +29,15 @@ https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_
 #### Intro to Tensorflow
 https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV
 
-# Month 4
+# Month 5
 #### Intro to ML (Udacity)
 https://eu.udacity.com/course/intro-to-machine-learning--ud120
 
-# Month 5
+# Month 6
 #### ML Project Ideas
 https://github.com/NirantK/awesome-project-ideas
 
-# Month 6 - 7 (Deep Learning)
+# Month 7 - 8 (Deep Learning)
 #### Intro to Deep Learning
 https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
 #### Deep Learning by Fast.AI
