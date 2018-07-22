@@ -43,3 +43,8 @@ https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rE
 http://course.fast.ai/
 #### Re-implement DL projects from siraj's github
 https://github.com/llSourcell?tab=repositories
+
+
+
+# Other Resources
+https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48
