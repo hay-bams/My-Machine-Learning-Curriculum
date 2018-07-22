@@ -3,14 +3,13 @@
 # Month 1
 ## Linear Algebra
 https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 https://www.khanacademy.org/math/linear-algebra
 
 # Month 2
 ## Calculus
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
-https://www.khanacademy.org/math/ap-calculus-ab
-https://www.khanacademy.org/math/ap-calculus-bc
+
 
 # Month 3
 ##  Probability
