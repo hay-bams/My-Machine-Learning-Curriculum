@@ -10,7 +10,9 @@ https://www.khanacademy.org/math/linear-algebra
 ## Calculus
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 https://www.khanacademy.org/math/ap-calculus-ab
+
 https://www.khanacademy.org/math/ap-calculus-bc
+
 
 # Month 3
 ##  Probability
