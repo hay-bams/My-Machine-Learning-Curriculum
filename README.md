@@ -42,6 +42,8 @@ https://github.com/NirantK/awesome-project-ideas
 https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
 #### Deep Learning by Fast.AI
 http://course.fast.ai/
+#### Deep Learning by IBM
+https://www.edx.org/professional-certificate/ibm-deep-learning
 #### Re-implement DL projects from siraj's github
 https://github.com/llSourcell?tab=repositories
 
