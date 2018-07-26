@@ -16,6 +16,8 @@ https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1
 https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2
 #### Computational Linear Algebra
 https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY
+#### Coding the matrix
+http://cs.brown.edu/courses/cs053/current/lectures.htm
 
 
 # Month 2
