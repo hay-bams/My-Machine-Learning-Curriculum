@@ -2,16 +2,22 @@
 
 # Month 1
 ## Linear Algebra
+#### 3Blue1Brown
 https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+#### Linear Algebra coursera
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
-
+#### Khan academy
 https://www.khanacademy.org/math/linear-algebra
+#### Deep Learning Book Series · 2.1 Scalars Vectors Matrices and Tensors
+https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.1-Scalars-Vectors-Matrices-and-Tensors/
 
 # Month 2
 ## Calculus
+#### 3Blue1Brown
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+#### Khan academy
 https://www.khanacademy.org/math/ap-calculus-ab
-
+#### Khan academy
 https://www.khanacademy.org/math/ap-calculus-bc
 
 
