@@ -24,6 +24,8 @@ https://www.khanacademy.org/math/ap-calculus-bc
 # Month 3
 ##  Probability
 https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
+#### Khan academy
+https://www.khanacademy.org/math/probability
 ##  Algorithms
 https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
 
