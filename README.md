@@ -10,6 +10,13 @@ https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 https://www.khanacademy.org/math/linear-algebra
 #### Deep Learning Book Series · 2.1 Scalars Vectors Matrices and Tensors
 https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.1-Scalars-Vectors-Matrices-and-Tensors/
+#### Applications of Linear Algebra Part 1 - 
+https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1
+#### Applications of Linear Algebra Part 2 - 
+https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2
+#### Computational Linear Algebra
+https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY
+
 
 # Month 2
 ## Calculus
