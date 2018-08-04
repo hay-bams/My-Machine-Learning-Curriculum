@@ -72,3 +72,5 @@ https://github.com/llSourcell?tab=repositories
 
 # Other Resources
 https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48
+
+https://www.coursera.org/learn/machine-learning
