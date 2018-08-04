@@ -18,6 +18,8 @@ https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2
 https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY
 #### Coding the matrix
 http://cs.brown.edu/courses/cs053/current/lectures.htm
+#### A Complete In-Depth Linear Algebra Course with Problems and Exercises
+https://www.youtube.com/watch?v=Fnfh8jNqBlg&index=1&list=PLlXfTHzgMRUKXD88IdzS14F4NxAZudSmv
 
 
 # Month 2
