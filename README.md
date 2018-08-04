@@ -38,6 +38,8 @@ https://www.khanacademy.org/math/probability
 ##  Algorithms
 https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
 
+https://www.youtube.com/watch?v=Vc5fIuYk3Bw&list=PLRqwX-V7Uu6bePNiZLnglXUp2LXIjlCdb
+
 # Month 4
 #### Learn python for data science
 https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU
