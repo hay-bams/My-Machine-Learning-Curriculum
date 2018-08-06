@@ -49,12 +49,12 @@ https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ
 https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D
 #### Intro to Tensorflow
 https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV
-#### Machine Learning
-https://www.coursera.org/learn/machine-learning
 
 # Month 5
 #### Intro to ML (Udacity)
 https://eu.udacity.com/course/intro-to-machine-learning--ud120
+#### Machine Learning
+https://www.coursera.org/learn/machine-learning
 
 # Month 6
 #### ML Project Ideas
