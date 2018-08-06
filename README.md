@@ -67,9 +67,10 @@ https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rE
 http://course.fast.ai/
 #### Deep Learning by IBM
 https://www.edx.org/professional-certificate/ibm-deep-learning
+#### Coursera 
+https://www.coursera.org/specializations/deep-learning
 #### Re-implement DL projects from siraj's github
 https://github.com/llSourcell?tab=repositories
-
 
 
 # Other Resources
