@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQ
 # Month 5
 #### Intro to ML (Udacity)
 https://eu.udacity.com/course/intro-to-machine-learning--ud120
-#### Machine Learning
+#### Machine Learning(Coursera)
 https://www.coursera.org/learn/machine-learning
 
 # Month 6
